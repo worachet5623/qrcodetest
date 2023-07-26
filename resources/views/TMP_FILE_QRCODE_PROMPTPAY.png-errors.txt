@@ -1,1 +1,0 @@
-2023-07-26 08:50:34: file_put_contents(D:\worachet2566\internship\website\new\newtestqr\resources\views\cache\frame_6.dat): Failed to open stream: No such file or directory
