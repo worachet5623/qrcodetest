@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\testcontroller;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,7 +13,6 @@ use App\Http\Controllers\testcontroller;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-
 
 Route::get('/', [testcontroller::class, 'index']);
 Route::get('/test', [testcontroller::class, 'test']);
